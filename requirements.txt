@@ -1,4 +1,35 @@
-pandas
-numpy
-scikit-learn
-missingno
+My Ecudation: BS Computer Science 
+Certifications:
+1 Google Data Analytics Profissional Certificate Description: 
+
+Those who earn the Google Data Analytics Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.
+Skills Gain: Data Aggregation
+Data Analytics
+Data Calculations
+Data Cleaning
+Data Ethics
+Data Visualization
+Presentations
+Problem Solving
+R
+Spreadsheets
+SQL
+Structured Thinking
+
+2 Google Advanced Data Analytics Professional Certificate Description: Those who earn the Google Advanced Data Analytics Certificate have completed seven courses that include hands-on, practice-based assessments and are designed to prepare them for advanced roles in data analytics and entry-level roles in data science. They are competent in exploring large datasets, applying data analysis techniques, and building models to extract insights. They are also competent in machine learning, predictive modeling, and statistics.
+
+Skills Gained: 
+Data Analysis
+Data Science
+Data Visualization (DataViz)
+Exploratory Data Analysis
+Jupyter Notebook
+Kaggle
+Machine Learning
+Predictive Models
+Python
+Regression Models
+Statistical Analysis
+Tableau
+
+What you need to do: I have completed both of these certifications. Pleas craft My introduction for upwork. Act as professional upwork profile expert
